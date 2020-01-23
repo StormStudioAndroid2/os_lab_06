@@ -1,0 +1,5 @@
+/home/sergey/Рабочий стол/work/os_lab_06/CMakeFiles/rebuild_cache.dir
+/home/sergey/Рабочий стол/work/os_lab_06/CMakeFiles/edit_cache.dir
+/home/sergey/Рабочий стол/work/os_lab_06/CMakeFiles/functions.dir
+/home/sergey/Рабочий стол/work/os_lab_06/CMakeFiles/terminal.dir
+/home/sergey/Рабочий стол/work/os_lab_06/CMakeFiles/child.dir

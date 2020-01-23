@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergey/Рабочий стол/work/os_lab_06/server.cpp
+server.h
+/home/sergey/Рабочий стол/work/os_lab_06/server.h
+
+/home/sergey/Рабочий стол/work/os_lab_06/server.h
+string
+-
+zconf.h
+/home/sergey/Рабочий стол/work/os_lab_06/zconf.h
+zmq.hpp
+/home/sergey/Рабочий стол/work/os_lab_06/zmq.hpp
+
+/home/sergey/Рабочий стол/work/os_lab_06/zconf.h
+stddef.h
+-
+windows.h
+-
+limits.h
+-
+sys/types.h
+-
+stdarg.h
+-
+stddef.h
+-
+unistd.h
+-
+unixio.h
+-
+
